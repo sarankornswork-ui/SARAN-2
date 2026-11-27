@@ -1,0 +1,6 @@
+{
+  "name": "Nolan Voice Studio",
+  "description": "Real-time AI voice and vision assistant powered by Gemini Live, featuring Thai and English spoken conversation, live camera vision, animated acoustic wave dock, and movie-style subtitles.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
